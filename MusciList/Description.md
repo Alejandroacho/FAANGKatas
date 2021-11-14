@@ -15,9 +15,9 @@ Parameter 1 : 150
 
 Parameter 2 : [ 30, 65, 35, 55, 40, 70, 50, 80 ]
 
-Expected return: [ 4, 7 ]
+Expected return : [ 4, 7 ]
 
-Explanation: The function must look for a pair of songs that their durations combined are exactly 120. You may found 3 pairs:
+Explanation : The function must look for a pair of songs that their durations combined are exactly 120. You may found 3 pairs:
 
 * 65, 55
 * 70, 50
