@@ -13,7 +13,7 @@ You must write a function that receives 2 parameters (the bus travel duration ex
 
 Parameter 1 : 150
 
-Parameter 2: [ 30, 65, 35, 55, 40, 70, 50, 80 ]
+Parameter 2 : [ 30, 65, 35, 55, 40, 70, 50, 80 ]
 
 Expected return: [ 4, 7 ]
 
